@@ -1,0 +1,101 @@
+.header>h1{
+  font-size:55px;
+  font-family:lobster;
+
+}
+
+header{
+  background:white;
+}
+
+.qoutebox {
+  position:relative;
+  margin:0 auto auto auto;
+  width:500px;
+  height:250px;
+
+
+  border-radius:5px;
+  display:table;
+  overflow:hidden;
+
+}
+.buttonbox{
+ position:relative;
+  margin:.5em auto auto auto;
+  width:500px;
+ font-size:19px;
+
+
+  border-radius:5px;
+  display:block;
+
+  padding:0;
+}
+.buttonbox>tweet{
+float:left;
+cursor:crosshair;
+}
+.next{
+  float:right;
+}
+.btn{
+  font-size:20px;
+  padding:0;
+}
+
+.buttonbox .fa-facebook-square{
+  float:left;
+  font-size:3.9em;
+  margin:0;
+  padding:0;
+}
+.buttonbox .fa-twitter-square{
+  float:left;
+  font-size:3.7em;
+  margin:0 0 0 .3em;
+  padding:0;
+}
+
+footer{
+  margin-bottom:2px;
+
+}
+
+#contact{
+margin-top: 5%;
+   bottom:4%;
+}
+#code{
+    font-size:25px;
+font-weight: bolder;
+}
+.qoutes{
+  color: grey;
+margin:1.75em; text-align:center;
+    width:450px;
+    height:auto;
+    clear:both;
+    font-weight:bold;
+    font-size:1.75em;
+  }
+
+.author{
+  color: black;
+margin:1.75em; text-align:center;
+    width:450px;
+    height:auto;
+    clear:both;
+    font-weight:bold;
+    font-size:1.75em;
+}
+.footer>h1{
+  font-size:19px;
+}
+.fa{
+ font-size:20px;
+  color:black;
+}
+buttonbox{
+  margin-top:5% auto;
+}
